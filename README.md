@@ -4,7 +4,8 @@ This is a simple and responsive Todo List web application built using **HTML**, 
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/7b30825a-a9bc-4412-af73-c0cf0208480e)
+![Screenshot (1799)](https://github.com/user-attachments/assets/c4386ad7-1d67-46b5-8719-1bf29872f22e)
+
 
 
 ## 🚀 Features
